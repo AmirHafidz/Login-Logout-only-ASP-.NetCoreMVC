@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authn", "Authn\Authn.csproj", "{24C2B0CD-F20C-477E-8FC8-ED202A8F2B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C2B0CD-F20C-477E-8FC8-ED202A8F2B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C2B0CD-F20C-477E-8FC8-ED202A8F2B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C2B0CD-F20C-477E-8FC8-ED202A8F2B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C2B0CD-F20C-477E-8FC8-ED202A8F2B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAAE2887-0D52-44FE-B128-350EFD611B04}
+	EndGlobalSection
+EndGlobal
